@@ -34,9 +34,13 @@ The dataset includes:
 
 ## 🏗️ Architecture Overview
 
-The project follows a structured data pipeline starting from raw data sources to business insights generation.
+The project follows a structured data pipeline:
 
-<img width="671" height="499" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/9f622bcf-69dd-4b5a-81f8-c2a90e1a7ac1" />
+- Data Source: Users, Photos, Likes, Comments, Follows, Tags
+- Data Cleaning: NULL & duplicate checks
+- Processing Layer: SQL joins, aggregations, CTEs, window functions
+- Analysis Layer: Engagement metrics, user segmentation
+- Output: Insights, charts, and business recommendations
 
 
 ---
@@ -58,15 +62,29 @@ This chart show distribution of users based on their activity levels. A majority
 
 <img width="439" height="339" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/527a77eb-a81c-4642-8431-94cae7264698" />
 
+---
+
+### Engagement Rate Analysis  
+
+This chart shows the engagement rate (likes + comments per post) for top users. It highlights that a small group of users generates significantly higher engagement, making them ideal candidates for influencer marketing and targeted campaigns.
+
+<img width="665" height="501" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f7197aed-6ca2-497e-9b85-03005cdd9255" />
+
 
 ---
+
 
 ## 🚀 Business Impact
 
 - Identified high-value users for influencer targeting  
 - Highlighted inactive users for retention strategies  
-- Enabled data-driven decision making  
+- Enabled data-driven decision making
 
+The visualization highlights the importance of targeting high engagement user for marketing campaigns. 
+
+ <img width="671" height="499" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/e1566ff6-0ffc-4232-b3ae-1a2fdb2f415c" />
+
+ 
 ---
 
 ## 🔮 Future Improvements
