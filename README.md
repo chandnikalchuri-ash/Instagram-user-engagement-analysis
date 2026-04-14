@@ -58,7 +58,7 @@ The project follows a structured data pipeline:
 
 ### Active vs Inactive Users
 
-This chart show distribution of users based on their activity levels. A majority of users are active, while a smaller segment remains inactive, indicating potential for re-engagement strategies.
+This chart show the distribution of users based on their activity levels. A majority of users are active, while a smaller segment remains inactive, indicating potential for re-engagement strategies.
 
 <img width="439" height="339" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/527a77eb-a81c-4642-8431-94cae7264698" />
 
@@ -66,7 +66,7 @@ This chart show distribution of users based on their activity levels. A majority
 
 ### Engagement Rate Analysis  
 
-This chart shows the engagement rate (likes + comments per post) for top users. It highlights that a small group of users generates significantly higher engagement, making them ideal candidates for influencer marketing and targeted campaigns.
+This chart represents the engagement rate (likes + comments per post) across top users. It highlights that a small group of users generates significantly higher engagement, making them ideal candidates for influencer marketing and targeted campaigns.
 
 <img width="665" height="501" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f7197aed-6ca2-497e-9b85-03005cdd9255" />
 
@@ -74,13 +74,9 @@ This chart shows the engagement rate (likes + comments per post) for top users. 
 ---
 
 
-## 🚀 Business Impact
+### High Engagement Users Insight  
 
-- Identified high-value users for influencer targeting  
-- Highlighted inactive users for retention strategies  
-- Enabled data-driven decision making
-
-The visualization highlights the importance of targeting high engagement user for marketing campaigns. 
+This visualization highlights the importance of targeting high engagement users for marketing campaigns. These users generate maximum interaction and can be leveraged for influencer marketing and brand promotions.
 
  <img width="671" height="499" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/e1566ff6-0ffc-4232-b3ae-1a2fdb2f415c" />
 
