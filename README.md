@@ -60,7 +60,7 @@ The project follows a structured data pipeline:
 
 This chart show the distribution of users based on their activity levels. A majority of users are active, while a smaller segment remains inactive, indicating potential for re-engagement strategies.
 
-
+<img width="439" height="339" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/068fb6d7-0b32-49d9-97bb-951adc79a4ec" />
 
 
 ---
